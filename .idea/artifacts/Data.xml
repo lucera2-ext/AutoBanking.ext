@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Data">
+    <output-path>$PROJECT_DIR$/../../l2fan/Game</output-path>
+    <root id="root">
+      <element id="dir-copy" path="$PROJECT_DIR$/Game" />
+    </root>
+  </artifact>
+</component>

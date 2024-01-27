@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="CreateZip">
+    <output-path>$PROJECT_DIR$/out/artifacts/CreateZip</output-path>
+    <root id="root">
+      <element id="archive" name="AutoBanking.zip">
+        <element id="directory" name="libs">
+          <element id="artifact" artifact-name="AutoBanking:jar" />
+        </element>
+        <element id="directory" name="Game">
+          <element id="dir-copy" path="$PROJECT_DIR$/Game" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
