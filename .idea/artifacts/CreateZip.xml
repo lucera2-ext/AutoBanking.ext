@@ -9,6 +9,9 @@
         <element id="directory" name="Game">
           <element id="dir-copy" path="$PROJECT_DIR$/Game" />
         </element>
+        <element id="directory" name="extra">
+          <element id="dir-copy" path="$PROJECT_DIR$/extra" />
+        </element>
       </element>
     </root>
   </artifact>
